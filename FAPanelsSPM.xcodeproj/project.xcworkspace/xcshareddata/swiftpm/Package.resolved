@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": "master",
+          "revision": "e39be5e94ca8845ae37e3acf0c47a62709fc42d5",
+          "version": null
+        }
+      },
+      {
+        "package": "FAPanels",
+        "repositoryURL": "https://github.com/fahidattique55/FAPanels.git",
+        "state": {
+          "branch": "master",
+          "revision": "227507ae2319408261e9a3c292007806452a429b",
+          "version": null
+        }
+      },
+      {
+        "package": "FAPopover",
+        "repositoryURL": "https://github.com/fahidattique55/FAPopover.git",
+        "state": {
+          "branch": "master",
+          "revision": "642d98f3e933173468568021de3c774226c358a9",
+          "version": null
+        }
+      },
+      {
+        "package": "FAInteractiveView",
+        "repositoryURL": "https://github.com/fahidattique55/InteractiveView.git",
+        "state": {
+          "branch": "master",
+          "revision": "6817ec3e16499744550bd90f6800e48b27e3908d",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
